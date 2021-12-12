@@ -44,7 +44,8 @@ export const styles = StyleSheet.create({
 
     icon:{
         marginTop: 38,
-        marginLeft: 7
+        marginLeft: 7,
+        
     }
     
 })
